@@ -42,4 +42,10 @@ is a sigmoid function.
 
 
 And the equation that defines this looks like
-$y=1/(1+e^(-wx+b))$
+$a=y=1/(1+e^(-wx+b))$
+
+This simple logistic regression function can be viewed as 
+an activation function with a single neuron. It can be viewed as 
+a single neuron that takes the input $x$ and outputs $a$ like this 
+
+![img_4.png](img_4.png)
