@@ -28,5 +28,8 @@ Basic Ideas
 The following is a diagram of a simple neural network with 2 inputs, 1 output and 1 hidden layer with 2 neurons.
 ![img.png](img.png)
 * **Binary Classification** is the task of predicting whether an input belongs to a particular class or not. For example, whether an image contains a cat or not.
-* For example, the prediction of whether a given product is a top seller or not
+* For example, the prediction of whether a T-shirt is a top seller or not. The input feature maybe the price of the product, 
+
+![img_1.png](img_1.png)
+
 * 
