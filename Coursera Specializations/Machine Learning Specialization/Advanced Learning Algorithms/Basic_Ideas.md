@@ -32,4 +32,6 @@ The following is a diagram of a simple neural network with 2 inputs, 1 output an
 
 ![img_1.png](img_1.png)
 
+In this example input feature $x= Price$ of the product and the output is $y= Top Seller$.
+
 * 
