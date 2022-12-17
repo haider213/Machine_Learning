@@ -41,4 +41,3 @@ is a sigmoid function.
 ![img_3.png](img_3.png)
 And the equation that defines this looks like
 $y=1/(1+e^(-wx+b))$
-* 
