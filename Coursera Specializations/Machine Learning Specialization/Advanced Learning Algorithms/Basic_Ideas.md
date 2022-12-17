@@ -39,5 +39,7 @@ In this example input feature $x= Price$ of the product and the output is $y= To
 If we apply logistic regression to this problem, the function modelling the price to the probability of being a top seller or not
 is a sigmoid function. 
 ![img_3.png](img_3.png)
+
+
 And the equation that defines this looks like
 $y=1/(1+e^(-wx+b))$
