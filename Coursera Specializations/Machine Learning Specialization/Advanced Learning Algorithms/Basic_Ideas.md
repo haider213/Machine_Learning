@@ -51,3 +51,5 @@ an activation function with a single neuron. It can be viewed as
 a single neuron that takes the input $x$ and outputs $a$ like this 
 
 ![img_4.png](img_4.png)
+
+Neural Networks learn the features of the data that is relevant to the problem themselves
